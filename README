@@ -1,0 +1,3 @@
+nstream~ is a puredata external for multichannel uncompressed audio streaming over UDP for low latency transmissions. nstream~ and nsreceive~ parameters can be dynamically configured. Fixed point data and multicast are supported. nstream~ has been developed as part of the audioscape project and is also distributed with the pdsheefa library.
+
+Has worked under Linux and Darwin
